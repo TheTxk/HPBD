@@ -80,6 +80,7 @@ function displayCatHeart() {
         var messageDiv = document.createElement('div');
         messageDiv.id = 'message';
         messageDiv.innerText = 'ermm... pls take this';
+        messageDiv.innerText = 'happy bday :3';
         // Style the messageDiv
         messageDiv.style.textAlign = 'center';
         messageDiv.style.fontSize = '24px';
