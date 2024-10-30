@@ -47,7 +47,7 @@ function displayCat() {
     // Create a new Image element for the cat
     var catImage = new Image();
     
-    catImage.src = 'shopping-cat.gif'; 
+    catImage.src = 'cat.gif'; 
     
     catImage.alt = 'Cat';
     // When the cat image is fully loaded, add it to the image container
@@ -67,7 +67,7 @@ function displayCatHeart() {
     // Create a new Image element for the cat-heart
     var catHeartImage = new Image();
     // Set the source (file path) for the cat-heart image
-    catHeartImage.src = 'cat-flowers.gif'; // Assuming the cat-heart image is named "cat-heart.gif"
+    catHeartImage.src = 'cat_flower.gif'; // Assuming the cat-heart image is named "cat-heart.gif"
     // Set alternative text for the image (for accessibility)
     catHeartImage.alt = 'Car gives flowers';
     // When the cat-heart image is fully loaded, add it to the image container
