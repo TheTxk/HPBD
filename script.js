@@ -79,7 +79,7 @@ function displayCatHeart() {
         // Create a new div for the message
         var messageDiv = document.createElement('div');
         messageDiv.id = 'message';
-        messageDiv.innerText = 'Happy Woman Day, Mom!';
+        messageDiv.innerText = 'Happy birthday to YOU :3';
         // Style the messageDiv
         messageDiv.style.textAlign = 'center';
         messageDiv.style.fontSize = '24px';
